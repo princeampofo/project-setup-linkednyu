@@ -19,11 +19,6 @@
 	- [Contributing](#contributing)
 	- [References](#references)
 
-## Live Link
-**Note:** This app is designed for mobile users, adjust browser size for better experience. 
-- docker version: http://137.184.103.24/ 
-- manual setup: https://linkednyu.comf0rts.com
-
 ## Product Vision
 
 Providing fast and convenient experience for NYU student to directly get access to course sources and solve their confusions. 
